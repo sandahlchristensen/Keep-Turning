@@ -1,6 +1,6 @@
 ## Keep Turning
 Here is the introduction. And some information.
-
+![Srnicek](/images/Srnicek.png)
 
 ## Orginal Github information
 You can use the [editor on GitHub](https://github.com/sandahlchristensen/Keep-Turning/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
