@@ -4,10 +4,8 @@ We believe that automation is coming wheater we want it or not. Many possible tr
 
 Keep Turning is a design-led research project that aims to take the claim of a world without work serious and to explore one possible narative of how this could unfold. It's a proposal for possible post-work activities that can replace the meaning-making activies we have all come to depend of neoliberal capitalism and its business ontology to provide. 
 
-We think there are ways to design interfaces with the flows of electronic data that run through our cities so that they can be experienced as an enriching complement to other, more material phenomena. Edge Town is a design-led research project to test this hypothesis; a proposal of not just how to live, but how to live well in urban environments which have an ever-increasing and complex electronic component.
-
-
-Here is the introduction. And some information.
+##Post-work
+Nick Srnicek and Alex Williams[1](/refferences/srnicek/).
 ![Srnicek](/images/srnicek.png)
 
 ## Orginal Github information
