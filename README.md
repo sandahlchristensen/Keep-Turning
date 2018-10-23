@@ -1,4 +1,12 @@
-## Keep Turning
+# Keep Turning
+/*Keepturning is a series of algorithmically generated wood sculptures. It was designed to investigate our ideas about the concept of post-work.*/ 
+We believe that automation is coming wheater we want it or not. Many possible trajectories of this automated future seem bleak and borderline dystopian - Neo-colonial and racist exploitation from the seat of fortress europa, ecologically unsustainable futures build on our dwindling supply of resources, Misogynist futures where our concept of work fail to encompas reproductive labour. However, within the same technology that would enable those futures it is argued that there's potential to reclaim the future and create a post-capitalist society without work.  
+
+Keep Turning is a design-led research project that aims to take the claim of a world without work serious and to explore one possible narative of how this could unfold. It's a proposal for possible post-work activities that can replace the meaning-making activies we have all come to depend of neoliberal capitalism and its business ontology to provide. 
+
+We think there are ways to design interfaces with the flows of electronic data that run through our cities so that they can be experienced as an enriching complement to other, more material phenomena. Edge Town is a design-led research project to test this hypothesis; a proposal of not just how to live, but how to live well in urban environments which have an ever-increasing and complex electronic component.
+
+
 Here is the introduction. And some information.
 ![Srnicek](/images/srnicek.png)
 
