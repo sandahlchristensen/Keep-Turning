@@ -6,7 +6,7 @@ Keep Turning is a design-led research project that aims to take the claim of a w
 
 ## Post-work
 The news serve up a unending flow of dystopian futures[Refferences here]. However some still dare to dream of a future that is not yet cancelled. Nick Srnicek and Alex Williams does exactly that with their book **Inventing the Future: Postcapitalism and a world without work** [[1]](https://github.com/sandahlchristensen/Keep-Turning/blob/master/references/Srnicek-Williams_Inventing_the_Future.pdf).
-![Srnicek](/images/srnicek.png)
+![Srnicek](/images/srnicek.png | width=100)
 
 ## Orginal Github information
 You can use the [editor on GitHub](https://github.com/sandahlchristensen/Keep-Turning/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
