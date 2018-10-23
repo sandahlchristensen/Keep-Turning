@@ -5,7 +5,7 @@ We believe that automation is coming wheater we want it or not. Many possible tr
 Keep Turning is a design-led research project that aims to take the claim of a world without work serious and to explore one possible narative of how this could unfold. It's a proposal for possible post-work activities that can replace the meaning-making activies we have all come to depend of neoliberal capitalism and its business ontology to provide. 
 
 ##Post-work
-Nick Srnicek and Alex Williams[[1]](/refferences/Srnicek-Williams_Inventing the Future.pdf/).
+Nick Srnicek and Alex Williams[[1]](/refferences/Srnicek-Williams_Inventing the Future.pdf).
 ![Srnicek](/images/srnicek.png)
 
 ## Orginal Github information
