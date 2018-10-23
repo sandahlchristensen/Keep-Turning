@@ -1,5 +1,5 @@
 ## Keep Turning
-Here is the introduction.
+Here is the introduction. And some information.
 
 
 ## Orginal Github information
